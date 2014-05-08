@@ -7,7 +7,7 @@ gem 'rails', '4.0.2'
 group :development do
 	gem 'sqlite3'
 end
-
+gem 'heroku', '~> 3.7.3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
